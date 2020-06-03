@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["group-404"],{"8cdb":function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("v-row",{staticClass:"text-center",attrs:{justify:"center",align:"center"}},[n("v-col",{attrs:{cols:"12",md:"10",sm:"4"}},[t._v("Page Not Found")])],1)},s=[],c={},o=c,r=n("2877"),l=n("6544"),u=n.n(l),d=n("62ad"),i=n("0fd9"),w=Object(r["a"])(o,a,s,!1,null,"4d229646",null);e["default"]=w.exports;u()(w,{VCol:d["a"],VRow:i["a"]})}}]);
+//# sourceMappingURL=group-404.418e1720.js.map
